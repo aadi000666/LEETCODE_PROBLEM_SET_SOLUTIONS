@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0761-special-binary-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -18,13 +19,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
 |  |
 | ------- |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
