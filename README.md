@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0761-special-binary-string) |
+## Array
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Matrix
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
 <!---LeetCode Topics End-->
