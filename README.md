@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0761-special-binary-string](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0761-special-binary-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Divide and Conquer
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
