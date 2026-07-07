@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0761-special-binary-string](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
@@ -80,4 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
