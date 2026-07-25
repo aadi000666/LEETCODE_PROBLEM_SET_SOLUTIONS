@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3379-transformed-array](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3379-transformed-array) |
 | [3640-trionic-array-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3640-trionic-array-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -133,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
