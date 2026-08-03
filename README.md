@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0761-special-binary-string](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0761-special-binary-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Divide and Conquer
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3640-trionic-array-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
