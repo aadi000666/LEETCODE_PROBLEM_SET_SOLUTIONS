@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0044-wildcard-matching) |
@@ -153,10 +154,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
