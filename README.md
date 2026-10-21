@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
