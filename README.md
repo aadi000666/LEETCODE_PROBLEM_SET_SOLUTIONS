@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0045-jump-game-ii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3379-transformed-array](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3379-transformed-array) |
 | [3640-trionic-array-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/3640-trionic-array-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/aadi000666/LEETCODE_PROBLEM_SET_SOLUTIONS/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
